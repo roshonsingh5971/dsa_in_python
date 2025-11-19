@@ -13,7 +13,7 @@
 
 # print(c)
 
-#LIST METHODS
+#LIST METHODS :
 
 x = [5, 7, 3, 4, 9, 1, 3]
 
